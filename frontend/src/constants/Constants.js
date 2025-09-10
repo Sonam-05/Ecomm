@@ -1,2 +1,1 @@
-export const backendApiPrefix =
-  "https://sonam-ecommerce-store-backend.vercel.app/api";
+export const backendApiPrefix = "https://ecomm-one.vercel.app/api";

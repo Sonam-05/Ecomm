@@ -17,7 +17,7 @@ const __dirname = path.dirname(__filename);
 dotenv.config();
 
 const corsOptions = {
-  origin: "https://sonam-vestiq.vercel.app", // Specify the allowed origin
+  origin: "https://sonam-store.vercel.app", // Specify the allowed origin
   methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
   credentials: true, // Include credentials like cookies
 };
